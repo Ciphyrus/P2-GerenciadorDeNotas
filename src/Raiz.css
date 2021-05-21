@@ -1,0 +1,16 @@
+.link-router-dom {
+    text-transform: uppercase;
+    align-items: center;
+    display: flex;
+    height: 42px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 10%;
+    margin-top: 20px;
+    margin-left: 45%;
+    padding-left: 60px;
+    font-size: 16px;
+    color: #888;
+    text-align: center;
+    text-decoration: none;
+}

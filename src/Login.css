@@ -1,0 +1,38 @@
+.login-erro {
+    font-size: 16px;
+    color: brown;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-grupo {
+    width: 50%;
+    margin-left: 25%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.login-caixa {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    height: 42px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.login-botao {
+    width: 52.5%;
+    margin-left: 25%;
+    height: 42px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.login-grupo2 {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "userName": "Lucas",
+            "password": "123"
+        },
+        {
+            "id": 2,
+            "userName": "Luque",
+            "password": "123"
+        },
+        {
+            "id": 3,
+            "userName": "Fulano",
+            "password": "123"
+        }
+    ],
+    "notas": [
+        {
+            "id": 1,
+            "text": "Escrito por Fulano",
+            "categoria": "generico",
+            "title": "generico",
+            "userId": 3
+        }
+    ]
+}
